@@ -1,7 +1,6 @@
 ## Overview
 This repository contains the code and data used for our submission to ISMIR 2024. 
 The work involves training BERT models for predicting moral values from song lyrics; generating synthetic lyrics and classifying real-life lyrics using LLMs. 
-Please note that this submission is anonymous as per the requirements of ISMIR 2024.
 
 #### 1. BERT_Models
 This folder contains Python Jupyter Notebook files for training BERT models and predicting moral values in song lyrics. 
