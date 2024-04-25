@@ -4,7 +4,7 @@ The work involves training BERT models for predicting moral values from song lyr
 
 #### 1. BERT_Models
 This folder contains Python Jupyter Notebook files for training BERT models and predicting moral values in song lyrics. 
-The models are trained on annotated datasets and are designed to understand and predict the representation of moral values based on the Moral Foundations Theory (MFT).
+The models are fine-tuned on annotated datasets and are designed to understand and predict the representation of moral values based on the Moral Foundations Theory (MFT).
 
 #### 2. GPT_Models
 This folder hosts scripts for lyrics generation and zero-shot classification using GPT models.
