@@ -10,5 +10,5 @@ The models are fine-tuned on annotated datasets and are designed to understand a
 This folder hosts scripts for lyrics generation and zero-shot classification using GPT models.
 
 #### 3. Lyrics_Data
-3.1. MFT_human_annotated_lyrics.csv: This file contains 200 song lyrics annotated by human experts with 10 different MFT values.
-3.2. GPT4_generated_songs_with_MFT_values.csv: This file includes 2721 synthetic lyrics with MFT loadings, generated using GPT-4.
+- MFT_human_annotated_lyrics.csv: This file contains 200 song lyrics annotated by human experts with 10 different MFT values.
+- GPT4_generated_songs_with_MFT_values.csv: This file includes 2721 synthetic lyrics with MFT loadings, generated using GPT-4.
